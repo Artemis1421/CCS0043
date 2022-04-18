@@ -1,0 +1,4 @@
+<p style="padding: 10px">
+	One day at LTT Linus Tech Tip, the CEO of the company named Linus Sebastian has a bad habit of data hoarding. He likes to keep all the his footage and extras of the videos that they shot so that it can easily be access if its going to be needed for another video. So, he reached out to different various companies to sponsor and send him hard drives. <img src="linus.png" alt="linus" width="150px" height="150px" style="float: left; padding: 5px"> 
+	In total, he collected 3 Petabytes (3000 Terrabytes). This should keep all of his data hoards while keeping him good for years to come for extra datas. But, that did't last long, with storing red 4k footage it only lasted them 1 year before it got full again. <img src="full.png" alt="full" width="150px" height="150px" style="float: right; padding: 5px"> So, the solution Linus made, is add 2 more terrabyte worth of storage that will probably fill up in no time at all.
+</p>
