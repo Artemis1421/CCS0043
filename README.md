@@ -1,2 +1,2 @@
 # CCS0043
-Compilation of Deliverables of CCS0043
+Compilation of Deliverables of **APPLICATIONS DEVELOPMENT AND EMERGING TECHNOLOGIES (CCS0043)**
