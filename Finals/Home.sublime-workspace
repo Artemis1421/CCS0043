@@ -1,0 +1,796 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"mysqli_fetch_",
+				"mysqli_fetch_array"
+			],
+			[
+				"pading",
+				"padding-left"
+			],
+			[
+				"user",
+				"userlevel"
+			],
+			[
+				"bro",
+				"border-radius\tproperty"
+			],
+			[
+				"Inde",
+				"IndexError\tclass"
+			],
+			[
+				"rever",
+				"reverse=\tparam"
+			],
+			[
+				"y",
+				"Y"
+			],
+			[
+				"table",
+				"table\tstatement"
+			],
+			[
+				"first",
+				"first_line\tstatement"
+			],
+			[
+				"csvfil",
+				"csvfile2\tstatement"
+			],
+			[
+				"wr",
+				"wrtr2\tstatement"
+			],
+			[
+				"readlin",
+				"readlines\tfunction"
+			],
+			[
+				"writ",
+				"writerow\tfunction"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"sa",
+				"saveButton"
+			],
+			[
+				"get",
+				"getProj\tfunction"
+			],
+			[
+				"newl",
+				"newline=\tparam"
+			],
+			[
+				"new",
+				"newline=\tparam"
+			],
+			[
+				"csv",
+				"csvfile1\tstatement"
+			],
+			[
+				"reve",
+				"reverse=\tparam"
+			],
+			[
+				"row",
+				"row\tstatement"
+			],
+			[
+				"l",
+				"l\tstatement"
+			],
+			[
+				"write",
+				"writerows\tfunction"
+			],
+			[
+				"key",
+				"key=\tparam"
+			],
+			[
+				"ite",
+				"items\tfunction"
+			],
+			[
+				"stat",
+				"status_Sched\tstatement"
+			],
+			[
+				"input",
+				"inputProj\tfunction"
+			],
+			[
+				"Project",
+				"Project"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"Act",
+				"Act5_3"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"animate",
+				"animated_rainbow_1"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"anima",
+				"animal"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"c",
+				"cellpadding\tAttr"
+			],
+			[
+				"fact",
+				"facts"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"el",
+				"elseif\telseif …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"rom",
+				"roman_to_int"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"sca",
+				"scaleX()\ttransform"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"ove",
+				"overflow-y\tproperty"
+			],
+			[
+				"bol",
+				"bold\tfont-weight"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"bold",
+				"bolder\tfont-weight"
+			],
+			[
+				"sid",
+				"sidenav"
+			],
+			[
+				"sidena",
+				"sidenavR"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"k",
+				"ksort"
+			],
+			[
+				"hid",
+				"hiddenBorder"
+			],
+			[
+				"nu",
+				"num"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"side",
+				"sidebarphoto"
+			],
+			[
+				"num",
+				"nums"
+			],
+			[
+				"phot",
+				"photos"
+			],
+			[
+				"data",
+				"datas"
+			],
+			[
+				"inf",
+				"info1"
+			],
+			[
+				"info",
+				"info2"
+			],
+			[
+				"cells",
+				"cells"
+			],
+			[
+				"navba",
+				"navbartitle"
+			],
+			[
+				"res",
+				"resume"
+			],
+			[
+				"nav",
+				"navbar-toggle"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"paddit",
+				"padding-left\tproperty"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"Water",
+				"Waterloo"
+			],
+			[
+				"prev",
+				"prevSchool"
+			],
+			[
+				"last",
+				"lastDate"
+			],
+			[
+				"margion",
+				"margin-top\tproperty"
+			],
+			[
+				"mid",
+				"midName"
+			],
+			[
+				"init",
+				"adminInitial"
+			],
+			[
+				"entry",
+				"entryType"
+			],
+			[
+				"stud",
+				"studNum"
+			],
+			[
+				"stu",
+				"studentBorder"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"thi",
+				"thirdGroup"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"Tf",
+				"TFtable"
+			],
+			[
+				"fac",
+				"factors"
+			],
+			[
+				"metre",
+				"metres"
+			],
+			[
+				"centim",
+				"centimetres"
+			],
+			[
+				"cent",
+				"centimetre"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"siz",
+				"font-size\tproperty"
+			],
+			[
+				"top",
+				"padding-top\tproperty"
+			],
+			[
+				"m",
+				"mi"
+			],
+			[
+				"els",
+				"elseif"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: re",
+				"Package Control: Remove Repository"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ad",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remote",
+				"Remote: Connect to Session"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"pAcKAGE control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Projects-main/public/users/login.php",
+		"/C/xampp/htdocs/Projects-main/public/users/login_validation.php",
+		"/C/xampp/htdocs/Projects-main/index.php",
+		"/C/xampp/htdocs/CCS0043/Activity5_Tria/Act5_1.php",
+		"/C/xampp/htdocs/CCS0043/Activity2_Tria/Act2_2.php",
+		"/C/xampp/htdocs/CCS0043/Activity2_Tria/Act2_1.php",
+		"/C/xampp/htdocs/CCS0043/Activity3_Tria/Act3_3.php",
+		"/C/xampp/htdocs/CCS0043/Activity3_Tria/Act3_2.php",
+		"/C/xampp/htdocs/CCS0043/Activity3_Tria/Act3_1.php",
+		"/C/xampp/htdocs/CCS0043/Activity5_Tria/Act5_2.php",
+		"/C/xampp/htdocs/CCS0043/Activity1_Tria/resume.php",
+		"/C/Users/Patrick/Downloads/Thesis_Bukas/Register.php",
+		"/C/Users/Patrick/Downloads/Thesis_Bukas/Register.html",
+		"/C/Users/Patrick/Downloads/Thesis_Bukas/Login.html",
+		"/C/xampp/htdocs/CCS0043/Home.php",
+		"/C/Users/Patrick/Videos/mp5.py",
+		"/C/Users/Patrick/Desktop/Part_13-Moving_Platform_Collision/platformer_tut13.py",
+		"/C/Users/Patrick/Desktop/Part_13-Moving_Platform_Collision/level_editor.py",
+		"/C/Users/Patrick/Desktop/Part_13-Moving_Platform_Collision/sample_run.py",
+		"/C/Users/Patrick/AppData/Local/Temp/Rar$DIa0.932/setup.py",
+		"/C/Users/Patrick Tria/Desktop/test.py",
+		"/C/xampp/htdocs/CCS0043/Activity7_Tria/viewusers.php",
+		"/C/xampp/htdocs/CCS0043/Activity7_Tria/admin.php",
+		"/C/xampp/htdocs/CCS0043/Activity7_Tria/user.php",
+		"/C/xampp/htdocs/CCS0043/Activity7_Tria/Act7_1.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.164/account.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.910/login.php",
+		"/C/xampp/htdocs/CCS0043/Activity7_Tria/logout.php",
+		"/C/xampp/htdocs/CCS0043/Activity7_Tria/Act7_2.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical3/Tec3_2B.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical3/Tec3_3B.php",
+		"/C/xampp/htdocs/CCS0043/Activity7_Tria/config.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical3/logout.php",
+		"/C/xampp/htdocs/CCS0043/Activity7_Tria/Act7_4.php",
+		"/C/xampp/htdocs/CCS0043/Activity7_Tria/Act7_3.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical3/Tec3_2A.php",
+		"/C/xampp/htdocs/CCS0043/Activity6_Tria/Act6_2.php",
+		"/C/xampp/htdocs/CCS0043/Activity6_Tria/Act6_1.php",
+		"/C/xampp/htdocs/Projects-main/public/includes/config.php",
+		"/C/xampp/htdocs/Projects-main/public/inventory/stocks.php",
+		"/C/xampp/htdocs/Projects-main/public/dashboard/dashboard.php",
+		"/C/xampp/htdocs/Projects-main/public/inventory/add_products.php",
+		"/C/xampp/htdocs/Projects-main/public/sales/add_order_validation.php",
+		"/C/xampp/htdocs/Projects-main/public/records/dailySales.php",
+		"/C/xampp/htdocs/Projects-main/public/sales/order_view.php",
+		"/C/xampp/htdocs/Projects-main/public/sales/edit_view_order.php",
+		"/C/xampp/htdocs/Projects-main/public/sales/edit_orders.php",
+		"/C/xampp/htdocs/Projects-main/public/inventory/delete_cetegory.php",
+		"/C/xampp/htdocs/Projects-main/public/inventory/add_category.php",
+		"/C/xampp/htdocs/Projects-main/public/inventory/inventory.php",
+		"/C/xampp/htdocs/Projects-main/public/sales/add_order.php",
+		"/C/xampp/htdocs/Projects-main/public/inventory/category.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.929/logs.php",
+		"/C/xampp/htdocs/Projects-main/public/records/logs.php",
+		"/C/Users/Patrick Tria/Desktop/Python Project/python_project.py",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.705/python_project.py",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.805/python_project.py",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.140/python_project.py",
+		"/C/xampp/htdocs/CCS0043/SA_Technical3/Tec3_4B.php",
+		"/C/xampp/htdocs/CCS0043/Activity6_Tria/Act6_3.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical3/Tec3_2A_Home.php",
+		"/C/Users/Patrick Tria/Downloads/get_post_request.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical3/Tec3A.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical3/logout_2A.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical3/Tec3B.php",
+		"/C/xampp/htdocs/CCS0043/Activity5_Tria/Act5_2_Cookie.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical3/Tec3_3A.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.115/login.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.568/account.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.352/logout.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.581/register.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical3/config.php",
+		"/C/xampp/htdocs/CCS0043/Activity6_Tria/config.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.240/register.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.290/register.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.807/login.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.479/logout.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.588/account.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.858/config.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.561/config.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.922/login.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.426/login.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.502/login.php",
+		"/C/Users/Patrick Tria/Desktop/TeamRemote-remote-sublime-515cb42/remote.py",
+		"/C/Users/Patrick Tria/Downloads/mp5.py",
+		"/C/Users/Patrick Tria/Downloads/mp4.py",
+		"/C/Users/Patrick Tria/Downloads/mp3.py",
+		"/C/Users/Patrick Tria/Downloads/mp2.py",
+		"/C/Users/Patrick Tria/Downloads/mp1.py",
+		"/C/xampp/htdocs/CCS0043/Activity5_Tria/Act5_3_Result.php",
+		"/C/xampp/htdocs/CCS0043/Activity5_Tria/Act5_3.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.141/account.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.620/login.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.045/account.php",
+		"/C/xampp/htdocs/CCS0043/Activity5_Tria/login.php",
+		"/C/xampp/htdocs/CCS0043/Activity5_Tria/account.php",
+		"/C/xampp/htdocs/CCS0043/Activity5_Tria/logout.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.099/logout.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.142/account.php",
+		"/C/Users/Patrick Tria/AppData/Local/Temp/Rar$DIa0.675/login.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical2/Tec2_3.php",
+		"/C/Users/Patrick Tria/Videos/mp5.py",
+		"/C/Users/Patrick Tria/Videos/mp4.py",
+		"/C/Users/Patrick Tria/Videos/mp3.py",
+		"/C/Users/Patrick Tria/Videos/mp2.py",
+		"/C/Users/Patrick Tria/Videos/mp1.py",
+		"/C/xampp/htdocs/CCS0043/SA_Technical2/Tec2_4.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical2/Tec2_5.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical2/Tec2_2.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical2/Tec2.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical1/StudentRegForm.php",
+		"/C/xampp/htdocs/CCS0043/test.php",
+		"/C/xampp/htdocs/CCS0043/SA_Technical2/info.php",
+		"/C/xampp/htdocs/CCS0043/form_valid.php",
+		"/C/xampp/htdocs/CCS0043/Activity4_Tria/story1.php",
+		"/C/xampp/htdocs/CCS0043/Activity4_Tria/Act4_2.php",
+		"/C/xampp/htdocs/CCS0043/Activity4_Tria/Act4_1.php",
+		"/C/Users/Patrick Tria/Downloads/test.php",
+		"/C/Users/Patrick Tria/Downloads/Mp3.py",
+		"/C/Users/Patrick Tria/Desktop/Mp1.py",
+		"/C/Users/Patrick Tria/Desktop/Mp2.py",
+		"/C/Users/Patrick Tria/Desktop/Mp3.py",
+		"/C/Users/Patrick Tria/Downloads/Mp1.py",
+		"/C/xampp/htdocs/CCS0043/Activity4_Tria/story3.php",
+		"/C/xampp/htdocs/CCS0043/Activity4_Tria/story5.php",
+		"/C/xampp/htdocs/CCS0043/Activity4_Tria/story2.php",
+		"/C/xampp/htdocs/CCS0043/Activity4_Tria/story4.php",
+		"/C/xampp/htdocs/dashboard/howto.html"
+	],
+	"find":
+	{
+		"height": 42.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 42.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Home.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
